@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\bin\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.exe
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\bin\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.deps.json
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\bin\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.runtimeconfig.json
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\bin\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\bin\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.dll
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\bin\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.pdb
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\obj\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\obj\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\obj\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\obj\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.dll
+C:\Users\Michael\source\repos\Grand Circus\Week 2 Monday - Regular Expressions\Week 2 Monday - Regular Expressions\obj\Debug\netcoreapp3.1\Week 2 Monday - Regular Expressions.pdb
