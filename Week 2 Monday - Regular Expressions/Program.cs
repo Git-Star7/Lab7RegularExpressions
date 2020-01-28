@@ -25,7 +25,7 @@ namespace Week_2_Monday___Regular_Expressions
         //checks for a name input (first and last name required)
         public static void IsName(string message)
         {
-            if (Regex.IsMatch(message, @"^\b[A-Z][a-z]{1,30}\b \b[A-Z][a-z]{1,30}\b$"))
+            if (Regex.IsMatch(message, @"^\b[A-Z][a-z]{1,29}\b \b[A-Z][a-z]{1,29}\b$"))
             {
                 Console.WriteLine("This is a name");
             }
