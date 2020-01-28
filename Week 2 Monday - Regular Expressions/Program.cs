@@ -12,6 +12,7 @@ namespace Week_2_Monday___Regular_Expressions
             IsEmail(GetUserInput("Give me an email address  ( jonnyappleseed@gmail.com )"));
             IsPhoneNumber(GetUserInput("Give me a phone number  ( 123-456-7890 )"));
             IsDate(GetUserInput("Enter a date  ( dd/mm/yyyy )"));
+            IsHTML(GetUserInput("Enter something with an HTML format  (<a1>mostly dead inside</a1>)"));
         }
 
         //gets user input and displays a message
@@ -75,6 +76,20 @@ namespace Week_2_Monday___Regular_Expressions
             {
                 Console.WriteLine("Invalid Input");
                 IsDate(GetUserInput("Enter a date  ( dd/mm/yyyy )"));
+            }
+        }
+
+        //checks if input is in an HTML format (I have no clue if I did this right)
+        public static void IsHTML(string message)
+        {
+            if (Regex.IsMatch(message, @"^(<\w+>).+(<\/\w+>)$"))
+            {
+                Console.WriteLine("This is an HTML somethin");
+            }
+            else
+            {
+                Console.WriteLine("idk what this is");
+                IsHTML(GetUserInput("Enter something with an HTML format  (<a1>mostly dead inside</a1>)"));
             }
         }
     }
